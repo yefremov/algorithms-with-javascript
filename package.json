@@ -6,7 +6,8 @@
   "scripts": {
     "test": "tape lib/**/*-test.js | tap-spec",
     "test-cov": "nyc npm test",
-    "report-cov": "nyc report --reporter=text-lcov | coveralls"
+    "report-cov": "nyc report --reporter=text-lcov | coveralls",
+    "jshint": "jshint lib/**/*.js"
   },
   "repository": {
     "type": "git",
@@ -20,6 +21,7 @@
   "homepage": "https://github.com/yefremov/algorithms-with-javascript#readme",
   "devDependencies": {
     "coveralls": "^2.11.15",
+    "jshint": "^2.9.4",
     "nyc": "^10.1.2",
     "tap-spec": "^4.1.1",
     "tape": "^4.6.3"
