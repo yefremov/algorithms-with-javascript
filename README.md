@@ -5,6 +5,30 @@
   but readable form, therefore, no (pre)mature optimizations should be
   expected here.
 
+## Algorithms
+
+### Iterative
+
+  - coprime
+  - prime
+
+### Recursive
+
+  - factorial
+  - fibonacci
+  - gcd
+
+### Search
+
+  - binary
+  - linear
+
+### Sort
+
+ - bubble
+ - insertion
+ - selection
+
 ## Running tests
 
 ```
