@@ -9,25 +9,25 @@
 
 ### Iterative
 
-  - coprime
-  - prime
+  - [x] coprime
+  - [x] prime
 
 ### Recursive
 
-  - factorial
-  - fibonacci
-  - gcd
+  - [x] factorial
+  - [x] fibonacci
+  - [x] gcd
 
 ### Search
 
-  - binary
-  - linear
+  - [x] binary
+  - [x] linear
 
 ### Sort
 
- - bubble
- - insertion
- - selection
+ - [x] bubble
+ - [x] insertion
+ - [x] selection
 
 ## Running tests
 
