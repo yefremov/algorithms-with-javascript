@@ -2,7 +2,7 @@
 
   This is a collection of different algorithms, written in JavaScript.
   The purpose of this package is to define basic algorithms in a concise,
-  but readable form. However, no (pre)mature optimizations should be expected 
+  but readable form. However, no (pre)mature optimizations should be expected
   here and code should never be used in production.
 
 ## Contents
@@ -10,6 +10,7 @@
 ### Iterative
 
   - [x] coprime
+  - [x] maxsubarray
   - [x] prime
 
 ### Recursive
