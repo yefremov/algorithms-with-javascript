@@ -11,7 +11,7 @@
 
   - [x] coprime
   - [x] maxsubarray
-  - [x] prime
+  - [x] isprime
 
 ### Recursive
 
