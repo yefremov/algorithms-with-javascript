@@ -30,6 +30,7 @@
  - [x] insertion
  - [x] selection
  - [ ] merge
+ - [ ] radix
 
 ## Running tests
 
