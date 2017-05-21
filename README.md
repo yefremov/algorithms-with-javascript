@@ -29,6 +29,7 @@
  - [x] bubble
  - [x] insertion
  - [x] selection
+ - [ ] merge
 
 ## Running tests
 
